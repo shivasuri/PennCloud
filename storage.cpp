@@ -29,11 +29,11 @@ inputs in;
 
 void shut_down_server(int signal) {
 
-//	Main thread calls SIGTERM on each thread when it receives SIGINT (CTRL + C)
+//	Main thread calls SIGTERM on each thread when it receives SIGTERM (CTRL + C)
 
 	for (int i = 0; i < threads.size(); i++) {
 		if (in.v == 1) {
-			fprintf(stderr, "Sending SIGINT to thread: %d\n", (int)threads[i]);
+			fprintf(stderr, "Sending SIGTERM to thread: %d\n", (int)threads[i]);
 		}
 		pthread_kill(threads[i], SIGTERM);
 	}
@@ -271,6 +271,25 @@ inputs parseInput(int argc, char *argv[]) {
 	}
 
 	return in;
+}
+
+/* Allowed operations */
+/* Need to parse the request type and call the appropriate method */
+
+void put() {
+
+}
+
+void get() {
+
+}
+
+void cput() {
+
+}
+
+void delete_operation() {
+
 }
 
 int main(int argc, char *argv[]) {
