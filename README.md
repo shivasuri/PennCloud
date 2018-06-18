@@ -30,6 +30,9 @@ The following commands can be copied as a block and executed on the terminal. Th
 
 ```sh
 cd PennCloud/bin
+mkdir ckpts
+mkdir Drive
+mkdir logs
 
 ./html-server config.md -p 8000 &
 ./html-server config.md -p 8001 &
