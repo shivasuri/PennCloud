@@ -82,6 +82,6 @@ Supports multiple users to play concurrently with two people joining one game.
 * Admin Console
 
 <p align="center">
-  <img src="https://github.com/TheGarvitGupta/PennCloud/blob/master/Images/design.png" alt="System Design"/>
+  <img src="https://github.com/TheGarvitGupta/PennCloud/blob/master/Images/Untitled-1.png" alt="System Design"/>
   <p align="center">System Design</p>
 </p>
