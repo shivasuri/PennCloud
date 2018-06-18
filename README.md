@@ -4,7 +4,7 @@ Final Project - CIS 505: Software Systems, University of Pennsylvania. Spring 20
 
 # Information
 
-This repository <span style="color:red">only contains the binaries</span>, in compliance with the course policies that prevent sharing and publishing code as per the academic integrity requirements.
+This repository only contains the binaries, in compliance with the course policies that prevent sharing and publishing code as per the academic integrity requirements.
 
 The private repo, [CIS505Project](https://github.com/TheGarvitGupta/CIS505Project) contains the entire code. Please [write to me](garvit@cis.upenn.edu) if you'd like access to the code or instantiate the demo on AWS link below (It is highly likely that node would have crashed, otherwise)
 
