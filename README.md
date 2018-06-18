@@ -6,16 +6,16 @@ Final Project - CIS 505: Software Systems, University of Pennsylvania. Spring 20
 
 This repository only contains the binaries, in compliance with the course policies that prevent sharing and publishing code as per the academic integrity requirements.
 
-The private repo, [CIS505Project](https://github.com/TheGarvitGupta/CIS505Project) contains the entire code. Please [write to me](garvit@cis.upenn.edu) if you'd like access to the code or instantiate the demo on AWS link below (It is highly likely that node would have crashed, otherwise)
+The private repo, [CIS505Project](https://github.com/TheGarvitGupta/CIS505Project) contains the entire code. Please [write to me](mailto:garvit@cis.upenn.edu) if you'd like access to the code or instantiate the demo on AWS link below (It is highly likely that you'll see a `500` error if you try to access it right now.)
 
 
 * AWS Link: http://ec2-18-217-241-213.us-east-2.compute.amazonaws.com:8000
 * Binaries: https://github.com/TheGarvitGupta/PennCloud
-* Code: https://github.com/TheGarvitGupta/CIS505Project
+* Code [Private]: https://github.com/TheGarvitGupta/CIS505Project
 
 # Description
 
-PennCloud is a distributed cloud platform with a highly scalable, fault-tolerant key-value datastore at the backend that supports strong consistency and efficient replication, checkpointing and recovery.
+PennCloud is a distributed cloud platform with a highly scalable, fault-tolerant key-value datastore at the backend that supports strong consistency, efficient replication, checkpointing and recovery.
 
 # Instructions
 
