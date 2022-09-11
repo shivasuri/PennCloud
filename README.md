@@ -1,6 +1,6 @@
 # PennCloud
 
-Final Project - CIS 505: Software Systems, University of Pennsylvania. Spring 2018
+Won Award for Best Final Project - CIS 505: Software Systems, University of Pennsylvania. Spring 2018
 
 # Information
 
